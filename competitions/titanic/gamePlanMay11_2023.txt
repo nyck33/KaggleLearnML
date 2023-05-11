@@ -1,0 +1,9 @@
+Advantage of Decision Tree: don't have to delete features that are irrelevant for training NN,
+ie. entropy, choosing feature that separates data the most.
+
+Can I run tree first, rank the features then if tree results not good enough, try random forest, then maybe xg boost?
+
+So look at TF implementation, cheat a bit, use the preprocessing from other Kagglers, focus on the NN portion of TF and Pytorch.
+
+Also look at trees.
+
