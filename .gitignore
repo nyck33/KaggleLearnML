@@ -1,0 +1,7 @@
+#no data
+/data/*
+*.mp4
+*.csv
+*.pdf
+*.zip
+kaggle.json
