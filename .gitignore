@@ -5,4 +5,4 @@
 *.pdf
 *.zip
 kaggle.json
-*/runs/*
+competitions/titanic/runs/*
